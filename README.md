@@ -1,1 +1,1 @@
-"# Crossword-Solver" 
+This is a crossword solver which I did in my 2nd year in ITU CE. It reads a "puzzle.txt" file as an input and searches for the words in "searchedwords.txt" file. When it finds the words it generates two more txt files, "foundwordsinfo.txt" containing the position of the words and "lastversionpuzzle.txt", the crossword puzzle itself when the found words are removed.
